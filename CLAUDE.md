@@ -39,7 +39,7 @@ Ces règles s'appliquent à toutes les sessions, sans exception. Elles ne doiven
 ## Suivi des dossiers et des sessions
 
 - Les résumés de session et le suivi des clients sont dans le coffre Obsidian, dossier Drive « En bout de corde » (notes `_RESUME session …`, `_SUIVI - tableau de bord des demandes`, `_REGISTRE - dates de validite & pieces administratives`).
-- Dossier en cours : **Copro 6 rue des Lices, Marseille (M. Lionel Gottrau)**. Tout l'historique, le devis EBDC-D-2026-031, les prochaines étapes et les 36 doublons restant à supprimer sont dans `_RESUME session 21-11-2026 - Copro 6 rue des Lices (Gottrau).md` (ID Drive : `165tiZhN7nnii06274pfbbN9JCPUAyBG4`). Le lire avant de reprendre ce dossier.
+- Dossier en cours : **Copro 6 rue des Lices, Marseille (M. Lionel Gottrau)**. Tout l'historique, le devis EBDC-D-2026-031 et les prochaines étapes sont dans `_RESUME session 21-11-2026 - Copro 6 rue des Lices (Gottrau).md` (ID Drive : `165tiZhN7nnii06274pfbbN9JCPUAyBG4`). Le lire avant de reprendre ce dossier.
 - Le tableau `_SUIVI` est le point d'entrée : le lire en début de session et le mettre à jour à chaque avancée (ligne A-16 pour le dossier Gottrau).
 - **Modifier une note existante du coffre :** le connecteur Drive ne sait pas réécrire le contenu d'un fichier existant. Méthode : télécharger la note, la modifier en gardant son format (fins de ligne comprises), la mettre à la corbeille, puis la recréer à l'identique dans le même dossier et sous le même nom.
 - Les connecteurs Google Drive et Gmail sont réglés sur « Toujours autoriser » : agir sans redemander, sauf pour l'envoi d'un mail, qui reste soumis à l'accord de Jonathan.
