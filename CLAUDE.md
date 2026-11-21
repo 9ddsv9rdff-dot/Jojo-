@@ -35,3 +35,8 @@ Ces règles s'appliquent à toutes les sessions, sans exception. Elles ne doiven
 - **Ne jamais enregistrer de copie** d'une pièce administrative ailleurs : ni dans le Drive, ni dans le coffre Obsidian, ni dans un dossier d'appel d'offres ou de client. On envoie ou on dépose le zip (ou les PDF extraits du zip, sur le moment, sans les sauvegarder).
 - Si une copie isolée d'une pièce administrative est trouvée ailleurs, la signaler et proposer de la mettre à la corbeille.
 - Quand une nouvelle pièce arrive (attestation renouvelée, nouvel extrait…), la mettre directement dans le zip, puis mettre l'ancienne version et le fichier reçu à la corbeille.
+
+## Suivi des dossiers et des sessions
+
+- Les résumés de session et le suivi des clients sont dans le coffre Obsidian, dossier Drive « En bout de corde » (notes `_RESUME session …`, `_SUIVI - tableau de bord des demandes`, `_REGISTRE - dates de validite & pieces administratives`).
+- Dossier en cours : **Copro 6 rue des Lices, Marseille (M. Lionel Gottrau)**. Tout l'historique, le devis EBDC-D-2026-031, les prochaines étapes et les 36 doublons restant à supprimer sont dans `_RESUME session 21-11-2026 - Copro 6 rue des Lices (Gottrau).md` (ID Drive : `1pdch4pt5AZhgRNYhk0TAeP2MCao-Kg5a`). Le lire avant de reprendre ce dossier.
