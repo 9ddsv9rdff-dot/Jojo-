@@ -28,3 +28,10 @@ Ces règles s'appliquent à toutes les sessions, sans exception. Elles ne doiven
 - Pour un client, joindre ce zip plutôt que les documents un par un.
 - Quand une pièce est renouvelée, reconstruire le zip avec la nouvelle version et remplacer l'ancien zip : il ne doit exister qu'un seul zip à jour.
 - En tant qu'entrepreneur individuel artisan, l'entreprise n'a pas de Kbis : l'extrait RNE en tient lieu.
+
+### Aucun doublon accepté
+
+- Pour retrouver une pièce administrative, **quel que soit le besoin** (client, appel d'offres, leasing, banque, assurance, dossier personnel), on utilise **uniquement** ce zip.
+- **Ne jamais enregistrer de copie** d'une pièce administrative ailleurs : ni dans le Drive, ni dans le coffre Obsidian, ni dans un dossier d'appel d'offres ou de client. On envoie ou on dépose le zip (ou les PDF extraits du zip, sur le moment, sans les sauvegarder).
+- Si une copie isolée d'une pièce administrative est trouvée ailleurs, la signaler et proposer de la mettre à la corbeille.
+- Quand une nouvelle pièce arrive (attestation renouvelée, nouvel extrait…), la mettre directement dans le zip, puis mettre l'ancienne version et le fichier reçu à la corbeille.
