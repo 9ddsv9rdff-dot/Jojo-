@@ -36,6 +36,12 @@ Ces règles s'appliquent à toutes les sessions, sans exception. Elles ne doiven
 - Si une copie isolée d'une pièce administrative est trouvée ailleurs, la signaler et proposer de la mettre à la corbeille.
 - Quand une nouvelle pièce arrive (attestation renouvelée, nouvel extrait…), la mettre directement dans le zip, puis mettre l'ancienne version et le fichier reçu à la corbeille.
 
+## Devis : on ne facture jamais notre métier (l'accès sur cordes)
+
+- Ne **jamais** mettre dans un devis de ligne facturée pour l'**installation et l'accès sur cordes** (mise en place des cordes et des ancrages, mise en sécurité, repli). L'accès sur cordes, c'est notre métier : on ne le facture pas. (Jonathan, 26/11/2026 : « Si d'autres le font, c'est leur problème. Moi, je refuse. »)
+- La **manutention** (montée et descente des matériaux, manutentions en toiture, évacuation) peut, elle, faire l'objet d'une ligne.
+- On peut écrire dans le texte du devis que l'intervention est réalisée par des cordistes couvreurs, mais sans prix associé.
+
 ## Suivi des dossiers et des sessions
 
 - Les résumés de session et le suivi des clients sont dans le coffre Obsidian, dossier Drive « En bout de corde » (notes `_RESUME session …`, `_SUIVI - tableau de bord des demandes`, `_REGISTRE - dates de validite & pieces administratives`).
