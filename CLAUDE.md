@@ -36,6 +36,13 @@ Ces règles s'appliquent à toutes les sessions, sans exception. Elles ne doiven
 - Si une copie isolée d'une pièce administrative est trouvée ailleurs, la signaler et proposer de la mettre à la corbeille.
 - Quand une nouvelle pièce arrive (attestation renouvelée, nouvel extrait…), la mettre directement dans le zip, puis mettre l'ancienne version et le fichier reçu à la corbeille.
 
+## Rapports : toujours le QR code, toujours un seul zip
+
+- **Tout rapport** (recherche de fuite, intervention…) contient, **en plus de l'annexe photos**, un encadré avec un **QR code et le lien** vers le dossier Drive partagé (« toute personne disposant du lien », lecteur) qui contient **toutes les photos et vidéos** du chantier. On ne parle de vidéos que s'il y en a.
+- **Envoi au client : un seul fichier zip** joint au mail, qui regroupe le rapport, le ou les devis et le dossier administratif (les PDF du zip « Dossier administratif En Bout de Corde », dans un sous-dossier du même nom). Les photos sont dans l'annexe du rapport et en ligne (QR code et lien), pas en fichiers séparés.
+- En session cloud, un envoi vers Gmail ou le Drive ne peut pas dépasser environ 3 Mo de fichiers : garder le zip sous 2,9 Mo en allégeant les photos du rapport (photos à 540 px, qualité 58 : environ 1,4 Mo pour 37 photos, encore nettes).
+- Nom des pièces jointes **sans apostrophe ni virgule** (par exemple « Rapport devis et dossier administratif - 7 rue des Enclos.zip ») : sinon le nom arrive abîmé chez le destinataire. Après création du brouillon, vérifier le nom et la pièce jointe.
+
 ## Devis : on ne facture jamais notre métier (l'accès sur cordes)
 
 - Ne **jamais** mettre dans un devis de ligne facturée pour l'**installation et l'accès sur cordes** (mise en place des cordes et des ancrages, mise en sécurité, repli). L'accès sur cordes, c'est notre métier : on ne le facture pas. (Jonathan, 26/11/2026 : « Si d'autres le font, c'est leur problème. Moi, je refuse. »)
